@@ -3,20 +3,19 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */6 * * *"
-  workflow_dispatch: 
+  workflow_dispatch: # 수동으로 실행 가능
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: xxziiko  # 여기에 본인의 GitHub 사용자명을 입력
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-
+          github_user_name: xxziiko
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
