@@ -22,7 +22,7 @@
 
 ### Skills and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,styledcomponents,sass,vite,supabase,html,css)](https://skillicons.dev) <br/>
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,styledcomponents,sass,vite,supabase,html,css)](https://skillicons.dev) <br/>
 [![My Skills](https://skillicons.dev/icons?i=git,github,notion,figma)](https://skillicons.dev)
 
 
