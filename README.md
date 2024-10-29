@@ -1,23 +1,26 @@
-<h2 align="left">Hi, there 👋!</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<h3 align="left">Hi, there 👋!</h2>
  
 ###
 </div>
 <div align="left">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxxziiko%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=today&edge_flat=true" height="25"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxxziiko%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hit&edge_flat=true" height="25"/></a>
 </div>
 
 ###
+<div>
 
-<div align="left">
- <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" height="30"/>
- <img src="https://img.shields.io/badge/xxziiko@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" height="30"/>
+<a href="https://velog.io/@xxziiko" target="_blank">
+  <img src="https://velog-readme-stats.vercel.app/api/list?name=xxziiko" alt="Velog's GitHub stats"></a>&nbsp;
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgh1120"/>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xxziiko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=flag-india&hide_border=true" height="150" alt="languages graph"  />
-<img src="https://github-readme-stats.vercel.app/api?username=xxziiko&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=flag-india&locale=en&hide_border=true" height="150" alt="stats graph"/>
 </div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=xxziiko&theme=graywhite&hide_border=true&rank_icon=github" /></a>&nbsp;
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxziiko&layout=compact&langs_count=8&card_width=320&theme=graywhite&hide_border=true" />
+</a>
 
 
 ### Skills and Tools
@@ -26,15 +29,14 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,notion,figma)](https://skillicons.dev)
 
 
-<br clear="both">
+### 
 
 
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
-![snake gif](https://github.com/xxziiko/xxziiko/blob/output/ocean.gif)
  
 
-<br/>
+
 
 
