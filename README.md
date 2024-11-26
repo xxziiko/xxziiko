@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<h3 align="left">Hi, there 👋!</h2>
+<h2 align="left">Front-End Developer</h2>
  
 ###
 </div>
