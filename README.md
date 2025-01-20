@@ -10,8 +10,7 @@
 ###
 <div>
 
-<a href="https://velog.io/@xxziiko" target="_blank">
-  <img src="https://velog-readme-stats.vercel.app/api/list?name=xxziiko" alt="Velog's GitHub stats"></a>&nbsp;
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=xxziiko)](https://github.com/xxziiko/velog-readme-stats)
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgh1120"/>
 
 </div>
