@@ -11,7 +11,7 @@
 <div>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=xxziiko)](https://github.com/xxziiko/velog-readme-stats)
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgh1120"/>
+
 
 </div>
 
