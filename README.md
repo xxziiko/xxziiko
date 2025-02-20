@@ -10,7 +10,7 @@
 ###
 <div>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=xxziiko)](https://github.com/xxziiko/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=xxziiko)](https://velog-readme-stats.vercel.app/api/redirect?name=xxziiko)
 
 
 </div>
